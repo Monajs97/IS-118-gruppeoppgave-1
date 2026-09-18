@@ -1,4 +1,8 @@
 # IS-118-gruppeoppgave-1
 Erling sin verktøypakke og egenevaluering
 
-test test 
+## 3.  Rammer for relasjonelle kontrakter
+Sammen med prosjekteier bør prosjektmandatet brukes til å forklare hva som skal leveres og hvordan de skal samarbeide. Mandatet bør kombinere produksjonskriteriene i jerntriangelet - tid, kostnad og kvalitet - med relasjonskriterier for informasjonsdeling, oppfølging og håndtering av uenigheter (Jacobsen, 2016, s. 43-44). Jacobsen (2016) viser til studier som tyder på noe mindre konflikter, utsettelser og kostnadsoverskridelser når kontrakter også regulerer relasjonene (s. 44-45). 
+En relasjonell kontrakt bør gjøre partenes forventninger til hverandre konkrete (Jacobsen, 2016, s. 43). Derfor bør det forpliktes til å varsle tidlig om risiko og behov for avklaringer, mens prosjekteieren bør forplikte seg til å avklare ressursbehov og ta beslutninger innen avtalte frister. I faste oppfølgingsmøter bør de drøfte både fremdrift og hvordan samarbeidet fungerer, slik at misforståelser kan bli avdekket før de skaper større problemer. 
+Man trenger også autonomi og handlingsrom for å kunne håndtere endringer underveis (Jacobsen, 2016, s. 43-44). Mandatet bør derfor angi hvilke avgjørelser dere kan ta selv, og også hvilke som krever behandling hos prosjekteieren eller på et høyere nivå (Jacobsen, 2016, s. 52-53). Avtalen bør også avklare hvilke medarbeidere man kan fordele oppgaver til, og hvor mye tid de har til prosjektarbeidet (Jacobsen, 2016, s. 41). Budsjettoverskridelser må for eksempel begrunnes og godkjennes av bystyret. 
+Relasjonene kan ikke fastlegges fullt ut i en tidlig fase av prosjektet (Jacobsen, 2016, s. 45). Sammen med prosjekteier bør derfor avtale at samarbeidsrutinene vurderes og justeres etter hvert som de får erfaring, særlig når ulike interesser gjør det nødvendig å avklare prioriteringene på nytt. 
